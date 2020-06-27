@@ -1,0 +1,29 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "label": "Learn Angular",
+      "completed": true
+    },
+    {
+      "id": 2,
+      "label": "Learn Spring boot",
+      "completed": true
+    },
+    {
+      "label": "Hay",
+      "completed": false,
+      "id": 3
+    },
+    {
+      "label": "hy",
+      "completed": false,
+      "id": 4
+    },
+    {
+      "label": "dd",
+      "completed": true,
+      "id": 5
+    }
+  ]
+}
